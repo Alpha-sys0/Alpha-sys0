@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Farhan 👋
 
-<!--
-**Alpha-sys0/Alpha-sys0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer · CS Student @ University of South Asia (2027)**
 
-Here are some ideas to get you started:
+I build backend tools, automation pipelines, and database systems.  
+I've shipped production Python automation at DigiHyre — an AI-powered recruitment platform —  
+where I cut manual processing time and maintained zero data errors across live pipelines.  
+Currently working toward building a small language model from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+
+
+---
+
+## 🔭 Currently Working On
+
+- Building a small LLM from scratch using PyTorch (following nanoGPT)
+- Deepening knowledge of transformer architecture: attention, tokenisation, embeddings
+- Writing clean, documented Python projects for my portfolio
+
+
+---
+
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanasim)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Farhanasim20@gmail.com)
+
+---
+
+*Open to remote Python developer roles and collaborations.*
