@@ -22,10 +22,11 @@ Currently working toward building a small language model from scratch.
 
 ## 🔭 Currently Working On
 
-- Building a small LLM from scratch using PyTorch (following nanoGPT)
-- Deepening knowledge of transformer architecture: attention, tokenisation, embeddings
-- Writing clean, documented Python projects for my portfolio
+GitHub Repository Q&A Agent 🔍
+A RAG-powered tool that lets you ask natural language questions about any GitHub repository. Built with LangChain, Google Gemini, and Qdrant vector database.
+🚧 Currently building & learning — working through the full pipeline step by step: GitHub REST API for repo ingestion, Qdrant for semantic search, LangChain for orchestration, and Gemini as the LLM backbone. Containerised with Docker, managed with uv.
 
+Building this to understand how RAG systems actually work under the hood — not just use a framework blindly.
 
 ---
 
